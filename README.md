@@ -80,7 +80,7 @@ It's my view for anyone who wanted to start in Cybersecurity Field
 
 Open to Suggestions and Additions
 
-Regards,
-0xe11i0t
-Pavan Karthick M
-Club Head ISFCR
+Regards,\
+0xe11i0t\
+Pavan Karthick M\
+Club Head at ISFCR, Student, Ethical Hacker
