@@ -12,6 +12,7 @@ If you're completed with these pathway's regardless of paid rooms
 NOTE: If a room is paid or premium try searching for the alternative content on google and you could ask us!! [ISFCR Discord Community](https://bit.ly/isfcr-discord)
 
 **If you don't find the room in pathway to be paid go to [Tryhackme Search](https://tryhackme.com/hacktivities?tab=search) and Enter the Keyword**
+
 ![[Pasted image 20220329220055.png]]
 
 2. [TryHackMe Modules](https://tryhackme.com/hacktivities) 
