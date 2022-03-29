@@ -14,7 +14,7 @@ NOTE: If a room is paid or premium try searching for the alternative content on 
 **If you don't find the room in pathway to be paid go to [Tryhackme Search](https://tryhackme.com/hacktivities?tab=search) and Enter the Keyword**
 
 
-![THM Photo](https://github.com/Mre11i0t/Introduction-to-Cybersecurity/blob/main/Pasted image 20220329220055.png)
+![THM Photo](https://github.com/Mre11i0t/Introduction-to-Cybersecurity/blob/6715cae442421f19c9eb4403de53c71086e3843b/Pasted%20image%2020220329220055.png)
 
 2. [TryHackMe Modules](https://tryhackme.com/hacktivities) 
 	Select a module which you want to learn and then complete that module if it's paid then Google!!!
