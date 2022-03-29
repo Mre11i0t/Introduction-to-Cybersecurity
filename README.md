@@ -84,22 +84,3 @@ Regards,\
 0xe11i0t\
 Pavan Karthick M\
 Club Head at ISFCR, Student, Ethical Hacker
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CTF{xD_l0st_1n_t1m3}
