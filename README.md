@@ -69,13 +69,7 @@ These are some starting Level Certifications there are advanced versions of thes
 4. [WiKi for CTFs](https://wiki.bi0s.in/) - Wiki by bi0s team
 5. [Shodan](https://www.shodan.io/) - Search engine for everything xD
 
-
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-
-
+#  
 
 Rome isn't build in a Day and Hacking can't be learnt in a day!!
 Keep Hacking Every Day!!
