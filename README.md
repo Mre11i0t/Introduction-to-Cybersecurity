@@ -2,10 +2,10 @@ You must be wondering on how to start with ethical hacking you might have some k
 
 # Cybersecurity Pathway
 Best way to start of is TryHackMe, Trust me I've learnt a lot from CTFs but that isn't much until I got exposed to TryHackMe and it made my learning faster
-1. [TryHackMe Pathways](https://tryhackme.com/paths)
-	a. Pre-Security Path  -> If you don't know networking and basic IT Stuff
-	b. Complete Beginner Path -> For everyone who's interested in ethical hacking
-	c. Web Fundamentals -> Web Penetration Testing Basics
+1. [TryHackMe Pathways](https://tryhackme.com/paths)\
+	a. Pre-Security Path  -> If you don't know networking and basic IT Stuff\
+	b. Complete Beginner Path -> For everyone who's interested in ethical hacking\
+	c. Web Fundamentals -> Web Penetration Testing Basics\
 
 If you're completed with these pathway's regardless of paid rooms
 
