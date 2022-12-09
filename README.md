@@ -85,4 +85,4 @@ Open to Suggestions and Additions
 Regards,\
 0xe11i0t\
 Pavan Karthick M\
-Club Head at ISFCR, Student, Ethical Hacker
+https://linkedin.com/in/e11i0t
